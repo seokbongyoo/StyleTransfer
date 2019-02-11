@@ -1,0 +1,1 @@
+python main.py --content=png/content.png --style=png/style2.png
